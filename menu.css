@@ -302,7 +302,8 @@ h1{
 }
 
 img {
-  margin-right: 100px;
+  border: 10px solid white;
+  margin-right: 64.5px;
   margin-top: 500px;
 	width: 200px;
     height: 200px;
@@ -322,4 +323,3 @@ img:hover {
 
 
 
- 
