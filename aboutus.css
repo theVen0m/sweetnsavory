@@ -1,9 +1,8 @@
-
-
 /* Please ❤ this if you like it! */
 
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
 
 body{
 	font-family: 'Montserrat', sans-serif;
@@ -40,9 +39,9 @@ h1{
   line-height: 1;
   color: #dc6bff;
   -webkit-text-stroke: 2px #dc6bff;
-  text-stroke: 2px #dc6bff;
+  text-shadow: 2px #dc6bff;
   -webkit-text-fill-color: transparent;
-  text-fill-color: transparent;
+  text-emphasis-color: transparent;
   color: transparent;
 }
 
@@ -316,11 +315,3 @@ p {
 
 span{
   font-size: 1.25em;
-
-
-
-
-
-
-
-
