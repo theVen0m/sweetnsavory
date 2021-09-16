@@ -40,7 +40,7 @@ h1{
   line-height: 1;
   color:  #dc6bff;
   text-align: center;
-  -webkit-text-stroke: 2px  #dc6bff;
+  -webkit-text-stroke: 2.5px  #dc6bff;
   text-shadow: 2px  #dc6bff;
   -webkit-text-fill-color: transparent;
   text-emphasis-color: transparent;
@@ -343,9 +343,3 @@ h2 {
   text-emphasis-color: transparent;
   color: transparent;
 }
-
-
-
- 
-
-
